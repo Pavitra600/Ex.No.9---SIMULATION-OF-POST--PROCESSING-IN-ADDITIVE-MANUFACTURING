@@ -47,8 +47,10 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![Screenshot 2025-04-24 154118](https://github.com/user-attachments/assets/9aca6633-c8f4-4dec-b1e9-03b3ce63eaf6)
+
+### Name: Pavitra.J
+### Register Number: 212224110043
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
